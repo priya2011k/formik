@@ -7,8 +7,8 @@ import Memo from './components/Memo'
 function App() {
   return (
     <div className="App">
-     {/* <Register/> */}
-     <Memo/>
+     <Register/>
+     {/* <Memo/> */}
     </div>
   );
 }
